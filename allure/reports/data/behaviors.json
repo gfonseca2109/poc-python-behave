@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Search Amazon",
+    "children" : [ {
+      "name" : "Search",
+      "uid" : "6f09366e6d66e911",
+      "parentUid" : "dad24dbfc1de0c8cbd8cbba39bf57289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607073853309,
+        "stop" : 1607073861103,
+        "duration" : 7794
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dad24dbfc1de0c8cbd8cbba39bf57289"
+  } ]
+}
