@@ -1,4 +1,1 @@
-behave 
-selenium
-chromedriver-autoinstaller
-geckodriver-autoinstaller
+behave
